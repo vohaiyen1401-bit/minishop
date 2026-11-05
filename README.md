@@ -1,2 +1,0 @@
-# minishop
-Website Mini Shop
